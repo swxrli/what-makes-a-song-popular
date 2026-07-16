@@ -136,14 +136,6 @@ pip install pandas numpy matplotlib
 
 ---
 
-# 👩‍💻 Author
-
-**Swarali Tambe**
-
-B.Tech Data Science Student
-
----
-
 ## 👤 Author
 
 **Swarali Tambe**
